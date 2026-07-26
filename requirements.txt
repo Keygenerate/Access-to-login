@@ -3,5 +3,3 @@ python-telegram-bot==20.8
 requests==2.31.0
 pycryptodome==3.20.0
 urllib3==2.1.0
-gunicorn==21.2.0
-asgiref==3.7.2
